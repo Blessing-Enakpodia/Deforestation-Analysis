@@ -1,6 +1,6 @@
 # Deforestation-Analysis
 
-** Find the total number of countries involved in deforestation. 
+Find the total number of countries involved in deforestation. 
 
 ![](image201.png)
 

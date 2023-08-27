@@ -1,7 +1,7 @@
 # Deforestation-Analysis
 
 # Introduction
-This is the SQL guided project for the Data Analysis cohort 3 training organised by Cinonso Promise and Somadina Victor. The SQL module was facilated by Somadina Victor. This project is aimed at testing the knowledge of the trainee on basic amd advanced sql functions to gain insights and make informed decisions. 
+This is the SQL guided project for the Data Analysis cohort 3 training organised by Cinonso Promise and Somadina Victor. The SQL module was facilitated by Somadina Victor. This project is aimed at testing the knowledge of the trainee on basic amd advanced sql functions to gain insights and make informed decisions. 
 
 # Skills Demonstrated 
 Knowledge and use of 

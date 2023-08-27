@@ -9,25 +9,25 @@ Knowledge and use of
 - Sorting and filtering (WHERE, HAVING, ORDER BY)
 - Sub queries
 - Joins
-- Window funtions
+- Window functions
 - Logical and Comparison operators
 
 # Dataset
-Trainees were provided with 3 datasets namely - forest_area, land_area, regions.
+Trainees were provided with 3 datasets namely - forest_area, land_area, and regions.
 
 # Problem Statement 
 
 1. Find the total number of countries involved in deforestation.
-2. Show the income groups of countries having total area ranging from 75,000 to 150,000?
+2. Show the income groups of countries having total area ranging from 75,000 to 150,000.
 3. Retrieve the names of countries that have a forest area (in square kilometers) greater than the average forest area of all countries in the "High Income" income group.
-4. Calculate the average total area (in square miles) for countries in the "Upper Middle Income" income group? compare the result with the rest of the income categories.
-5. Determine the total forest area (in square kilometers) for countries in the "High Income" income group? Also compare with the other income categories.
-6. What are the countries from each region or continent having the highest total forest area??
+4. Calculate the average total area (in square miles) for countries in the "Upper Middle Income" income group. Compare the result with the rest of the income categories.
+5. Determine the total forest area (in square kilometers) for countries in the "High Income" income group. Compare with the other income categories.
+6. What are the countries from each region or continent having the highest total forest area?
 
 # Data Analysis 
 
-First, I created tables and imported the csv files into POSTGRES server.
-ADD IMAGE OF YOUR CREATE TABLE
+First, I created tables and imported the CSV files into the POSTGRES server.
+
 ![](image207.png)
 
 **1. Find the total number of countries involved in deforestation.** 

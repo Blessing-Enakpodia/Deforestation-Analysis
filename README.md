@@ -1,13 +1,13 @@
 # Deforestation-Analysis
 
 # Introduction
-This is the SQL guided project for the Data Analysis cohort 3 training organised by Cinonso Promise and Somadina Victor. The SQL module was facilitated by Somadina Victor. This project is aimed at testing the knowledge of the trainee on basic and advanced SQL statements and queries to gain insights and make informed decisions. 
+This is the SQL guided project for the Data Analysis cohort 3 training organised by Chinonso Promise and Somadina Victor. The SQL module was facilitated by Somadina Victor. This project is aimed at testing the knowledge of the trainee on basic and advanced SQL statements and queries to gain insights and make informed decisions. 
 
 # Skills Demonstrated 
 Knowledge and use of 
 - Aggregate functions (SUM, AVG)
 - Sorting and filtering (WHERE, HAVING, ORDER BY)
-- Sub query
+- Sub queries
 - Joins
 - Window funtions
 - Logical and Comparison operators
@@ -25,7 +25,8 @@ Trainees were provided with 3 datasets namely - forest_area, land_area, regions.
 6. What are the countries from each region or continent having the highest total forest area??
 
 # Data Analysis 
-First, I created a table and imported the csv files into my POSTGRES server.
+
+First, I created tables and imported the csv files into POSTGRES server.
 ADD IMAGE OF YOUR CREATE TABLE
 ![](image207.png)
 

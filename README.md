@@ -1,4 +1,4 @@
-# Deforestation-Analysis
+# Deforestation-Analysis with SQL
 
 # Introduction
 This is the SQL guided project for the Data Analysis cohort 3 training organised by Chinonso Promise and Somadina Victor. The SQL module was facilitated by Somadina Victor. This project is aimed at testing the knowledge of the trainee on basic and advanced SQL statements and queries to gain insights and make informed decisions. 
